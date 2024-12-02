@@ -103,3 +103,10 @@ body{
     text-align: center;
     display: none;
 }
+
+.contact{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    height: 30px;    
+}
