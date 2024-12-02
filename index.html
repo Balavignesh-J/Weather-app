@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <link rel="stylesheet" href="./assets/style.css">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <div class="card">
+            <input type="text" placeholder="Enter your city name" spellcheck="false">
+            <button onclick="checkweather"><img src="./assets/img/search.png"></button>
+        </div>
+
+        <div class="error">
+            Check the city name typed
+        </div>
+
+        <div class="con">
+            <div class="info">
+                <img src="./assets/img/clear.png" id="padam">
+                <h1 id="temp">32°C</h1>
+                <h2 id="c-name">New York</h2>
+            </div>
+    
+            <div class="add-info">
+                <span>
+                    <img src="./assets/img/humidity.png">
+                    <span>
+                        <h3 id="temp-h">48%</h3>
+                        <h3>Humidity</h3>
+                    </span>
+                </span>
+                <span>
+                    <img src="./assets/img/wind.png">
+                    <span>
+                        <h3 id="w-speed">50 KM/H</h3>
+                        <h3>wind speed</h3>
+                    </span>
+                </span>
+            </div>
+        </div>
+    </div>
+    <script src="./assets/script.js"></script>
+</body>
+
+</html>
