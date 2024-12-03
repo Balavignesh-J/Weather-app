@@ -1,4 +1,4 @@
-const key = "ae7f43753327477606ea8b9811cb5384";
+const key = "paste your api key here";
 /* https://api.openweathermap.org/data/2.5/weather?id={city id}&appid={API key} */
 const link = "https://api.openweathermap.org/data/2.5/weather?units=metric&q="
 const input = document.querySelector(".card input");
