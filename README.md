@@ -34,7 +34,7 @@ Search by City: Enter the city name in the search bar and hit "Search" to view i
 🔗 Live Demo
 
 Check out the live version of the app here.
-Linkedin : https://www.linkedin.com/posts/bala-vignesh-9061a4292_project-weather-app-excited-to-activity-7269323472416202752--lNy/?utm_source=share&utm_medium=member_desktop
+[Linkedin : https://www.linkedin.com/posts/bala-vignesh-9061a4292_project-weather-app-excited-to-activity-7269323472416202752--lNy/?utm_source=share&utm_medium=member_desktop](https://weather-bv-project.netlify.app/)
 ---
 
 👨‍💻 Author
